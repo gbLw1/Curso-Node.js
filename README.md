@@ -13,6 +13,7 @@ Para instalar as dependências do projeto, execute o comando `npm install` na ra
 ## Rodando o projeto
 
 Para rodar o projeto, execute o comando `npm run start:dev` na raiz do projeto.
+Isso irá iniciar o servidor local na porta 8080.
 
 ## Variáveis de ambiente
 
